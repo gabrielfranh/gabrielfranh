@@ -35,7 +35,7 @@ I am a 24-year-old .NET developer with 5 years of experience and specializing in
 - 🎮 Avid gamer and tech enthusiast.
 
 ## 🌟 Highlighted Projects
-- [Parallel Computing]([https://github.com/gabrielfranh/microservices-project](https://github.com/gabrielfranh/ProjetoProgramacaoParalela)): Final project of Parallel Computing Subject, parallelizing the Bitonic Sort algorithm
+- [Parallel Computing]([(https://github.com/gabrielfranh/ProjetoProgramacaoParalela)]): Final project of Parallel Computing Subject, parallelizing the Bitonic Sort algorithm
 
 ## 🚀 Skills
 - **Languages**: C#, .NET Environment, Javascript(React)
