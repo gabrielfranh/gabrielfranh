@@ -8,7 +8,7 @@ I am a 24-year-old .NET developer with 5 years of experience and specializing in
 ## 🔭 What I'm Working On
 - **Microservices Projects**: Developing scalable and robust microservices solutions.
 - **AWS Cloud Solutions**: Implementing and managing cloud infrastructure on AWS.
-- **Graduation**: Completing my final year project.
+- **Graduation**: Completing my final year.
 
 ## 🌱 What I'm Learning
 - **Advanced Kubernetes**: Diving deeper into Kubernetes for efficient orchestration.
