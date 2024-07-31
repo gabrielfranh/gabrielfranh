@@ -12,7 +12,7 @@ I am a 24-year-old .NET developer with 5 years of experience and specializing in
 
 ## 🌱 What I'm Learning
 - **Advanced Kubernetes**: Diving deeper into Kubernetes for efficient orchestration.
-- **Serverless Architectures**: Exploring the possibilities of serverless on AWS Lambda.
+- **Serverless Architectures**: Exploring the possibilities of cloud.
 - **DevOps Practices**: Enhancing my skills in CI/CD pipelines and infrastructure as code.
 - **AWS Certification**: Preparing for my AWS Cloud Practitioner certification.
 
@@ -23,12 +23,6 @@ I am a 24-year-old .NET developer with 5 years of experience and specializing in
 ## 🤔 Seeking Help With
 - **Innovative Project Ideas**: Always open to new project ideas and collaboration opportunities.
 - **Networking**: Connecting with like-minded professionals in the tech industry.
-
-## 💬 Ask Me About
-- **.NET Development**: Tips and best practices for .NET development.
-- **AWS and Cloud Technologies**: Insights into using AWS for modern applications.
-- **Microservices**: Designing and implementing microservices architectures.
-
 ## 📫 How to Reach Me
 - **Email**: [Gmail](mailto:gabrielfranh@gmail.com)
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/gabrielfranh/)
