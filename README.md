@@ -30,7 +30,7 @@ I am a 25-year-old software engineer with 5 years of experience, specializing in
 - [Parallel Computing](https://github.com/gabrielfranh/ProjetoProgramacaoParalela): Final project of Parallel Computing Subject, parallelizing the Bitonic Sort algorithm
 
 ## 🚀 Skills
-- **Languages**: C#, .NET Core and Framework, React
+- **Languages, Environments and Frameworks**: C#, .NET Core and Framework, React
 - **Technologies**: AWS, Kubernetes, Docker, RabbitMQ
 - **Tools**: Azure DevOps, Git, SOLID and Clean Code
 
