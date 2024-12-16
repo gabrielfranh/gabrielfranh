@@ -3,12 +3,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/gabrielfranh?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/gabrielfranh?style=social)
 
-I am a 25-year-old .NET developer with 5 years of experience and specializing in microservices architecture. I work extensively in the AWS environment, with technologies such as Kubernetes, Docker, and RabbitMQ. Currently, I'm in my final semester of a Computer Science degree at UNESP and working at GFT, outsourced within BTG Pactual bank
+I am a 25-year-old software engineer with 5 years of experience, specializing in microservices architecture. I work extensively in the AWS environment, utilizing technologies such as Kubernetes, Docker, and RabbitMQ. I have a degree in Computer Science from UNESP and currently work at GFT, outsourced to a leading investment bank.
 
 ## 🔭 What I'm Working On
 - **Microservices Projects**: Developing scalable and robust microservices solutions.
 - **AWS Cloud Solutions**: Implementing and managing cloud infrastructure on AWS.
-- **Graduation**: Completing my final year.
 
 ## 🌱 What I'm Learning
 - **Advanced Kubernetes**: Diving deeper into Kubernetes for efficient orchestration.
