@@ -20,7 +20,7 @@ I am a 25-year-old software engineer with 5 years of experience, specializing in
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/gabrielfranh/)
 
 ## ⚡ Fun Facts
-- 🎓 Studying at UNESP, in my final semester.
+- 🎓 Computer Scientist.
 - 📜 Certified AWS Cloud Practitioner.
 - ⚽ As a good Brazilian, I love football and support São Paulo FC.
 - 🧠 Curious, science, philosophy, and economics are my favorite topics.
