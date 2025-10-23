@@ -3,17 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/gabrielfranh?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/gabrielfranh?style=social)
 
-I am a 26-year-old software engineer with 6 years of experience, specializing in microservices architecture. I work extensively in the AWS environment, utilizing technologies such as Kubernetes, Docker, and RabbitMQ. I have a degree in Computer Science from UNESP and currently work at GFT.
-
-## What I'm Learning
-- **Kubernetes**: Diving deeper into Kubernetes for efficient orchestration.
-- **Cloud Architectures**: Exploring the possibilities of cloud.
-- **DevOps**: Enhancing my skills in CI/CD pipelines and infrastructure as code.
-- **AWS Certification**: Preparing for my AWS Cloud Solutions Architect certification
-
-## How to Reach Me
-- **Email**: [Gmail](mailto:gabrielfranh@gmail.com)
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/gabrielfranh/)
+I am a 26-year-old software engineer with 6 years of experience, specializing in microservices architecture. I have a degree in Computer Science and currently work at GFT.
 
 ## About me
 - Computer Scientist.
@@ -22,10 +12,9 @@ I am a 26-year-old software engineer with 6 years of experience, specializing in
 - Curious, science, philosophy, and economics are my favorite topics.
 - Gamer and tech enthusiast.
 
-## Skills
-- **Languages, Environments and Frameworks**: C#, .NET Core and Framework, React
-- **Technologies**: AWS, Kubernetes, Docker, RabbitMQ
-- **Tools**: Azure DevOps, Git, SOLID and Clean Code
+## How to Reach Me
+- **Email**: [Gmail](mailto:gabrielfranh@gmail.com)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/gabrielfranh/)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielfranh&show_icons=true&theme=radical)
