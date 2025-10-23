@@ -10,10 +10,10 @@ I am a 25-year-old software engineer with 5 years of experience, specializing in
 - **AWS Cloud Solutions**: Implementing and managing cloud infrastructure on AWS.
 
 ## 🌱 What I'm Learning
-- **Advanced Kubernetes**: Diving deeper into Kubernetes for efficient orchestration.
-- **Serverless Architectures**: Exploring the possibilities of cloud.
-- **DevOps Practices**: Enhancing my skills in CI/CD pipelines and infrastructure as code.
-- **AWS Certification**: Preparing for my AWS Cloud Practitioner certification
+- **Kubernetes**: Diving deeper into Kubernetes for efficient orchestration.
+- **Cloud Architectures**: Exploring the possibilities of cloud.
+- **DevOps**: Enhancing my skills in CI/CD pipelines and infrastructure as code.
+- **AWS Certification**: Preparing for my AWS Cloud Solutions Architect certification
 
 ## 📫 How to Reach Me
 - **Email**: [Gmail](mailto:gabrielfranh@gmail.com)
@@ -25,9 +25,6 @@ I am a 25-year-old software engineer with 5 years of experience, specializing in
 - ⚽ As a good Brazilian, I love football and support São Paulo FC.
 - 🧠 Curious, science, philosophy, and economics are my favorite topics.
 - 🎮 Gamer and tech enthusiast.
-
-## 🌟 Highlighted Projects
-- [Parallel Computing](https://github.com/gabrielfranh/ProjetoProgramacaoParalela): Final project of Parallel Computing Subject, parallelizing the Bitonic Sort algorithm
 
 ## 🚀 Skills
 - **Languages, Environments and Frameworks**: C#, .NET Core and Framework, React
