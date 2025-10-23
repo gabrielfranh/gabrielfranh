@@ -7,7 +7,7 @@ I am a 26-year-old software engineer with 6 years of experience, specializing in
 
 ## About me
 - Computer Scientist.
-- Certified AWS Cloud Practitioner.
+- Certified AWS Cloud Practitioner and studying for AWS Solutions Architect Associate Certification.
 - As a good Brazilian, I love football and support São Paulo FC.
 - Curious, science, philosophy, and economics are my favorite topics.
 - Gamer and tech enthusiast.
