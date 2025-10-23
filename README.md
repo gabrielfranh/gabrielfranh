@@ -9,8 +9,8 @@ I am a 26-year-old software engineer with 6 years of experience, specializing in
 - Computer Scientist.
 - Certified AWS Cloud Practitioner and studying for AWS Solutions Architect Associate Certification.
 - As a good Brazilian, I love football and support São Paulo FC.
-- Curious, science, philosophy, and economics are my favorite topics.
-- Gamer and tech enthusiast.
+- Science, philosophy, and economics are my favorite topics.
+- Also Gamer and tech enthusiast.
 
 ## How to Reach Me
 - **Email**: [Gmail](mailto:gabrielfranh@gmail.com)
