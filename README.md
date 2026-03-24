@@ -12,10 +12,6 @@ I am a 26-year-old software engineer with 6 years of experience, specializing in
 - Science, philosophy, and economics are my favorite topics.
 - Also Gamer and tech enthusiast.
 
-## How to Reach Me
-- **Email**: [Gmail](mailto:gabrielfranh@gmail.com)
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/gabrielfranh/)
-
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielfranh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfranh&layout=compact&theme=radical)
